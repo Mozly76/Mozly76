@@ -8,6 +8,8 @@ email: i@mozly76.ru
 
 WhatsApp: +7 919 779-79-18
 
+Telegram: https://t.me/Mozly76
+
 ## Мой стек
 
 Java, Windows, JUnit, Selenium, Selenide, Postman, JIRA, IntelliJ IDEA, Git, Docker
