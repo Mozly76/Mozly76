@@ -30,4 +30,4 @@ Java, Windows, JUnit, Selenium, Selenide, Postman, JIRA, IntelliJ IDEA, Git, Doc
 
 [Тестировщик ПО](https://github.com/Mozly76/Mozly76/blob/main/certificate%20(6).pdf)
 
-[Основы SQL](https://github.com/Mozly76/Mozly76/files/11082192/certificate.7.pdf)
+[Основы SQL](https://github.com/Mozly76/Mozly76/blob/main/certificate%20(7).pdf)
