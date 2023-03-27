@@ -12,7 +12,7 @@ Telegram: https://t.me/Mozly76
 
 ## Мой стек
 
-Windows, SQL, Postman, JIRA, Git, IntelliJ IDEA, Docker, Java, JUnit, Selenium, Selenide 
+Windows, SQL, DBeaver, Postman, JIRA, Git, IntelliJ IDEA, Docker, Java, JUnit, Selenium, Selenide 
 
 ## Вот, что я умею
 
